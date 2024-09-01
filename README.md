@@ -19,9 +19,13 @@ https://www.youtube.com/watch?v=DJCmvzhFVOI&t=4s
 # 신입사원에게 꼭 필요한 직무 개념
 CS지식 꾸준한 노력이나 열정 다양한 방향으로 문제를 접근하는 방식
 
+# 과제 준비
+https://angryfullstack.tistory.com/95
+
 # 코딩테스트 준비
 https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&statuses=unsolved&levels=3%2C2%2C1&languages=java
 
+https://angryfullstack.tistory.com/88
 ```text
 왜? 코딩테스트는 어려운건가?    
 
@@ -42,6 +46,9 @@ https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&statuses
 나도 죽을맛이다 ㅜ.ㅜ 믿음으로 뽑아주는회사는 없는걸까 ? 
 내 연봉계약도 믿음으로 가자고 하겠지 ..
 ```
+
+# 평소에 이직을 위한 준비
+https://angryfullstack.tistory.com/108
 
 # 면접에서 꼭 물어보는 면접 필수 질문 30개
 면접 질문은 대답을 못할수있고 내가아는 지식을 벗어나는 경우가 발생하는데   
