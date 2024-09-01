@@ -2,6 +2,20 @@
 
 # 직무 핵심 개념과 면접에서 꼭 물어보는 질문
 
+좋은 개발자들의 말하는 방법을 자주보고 연습을 해봐야한다.  
+말이나 글보다 좋은개발자들이 말하는 방법을 보고 좋은 점들을 뽑아서 연습해야한다.   
+말하는 방법을 터특해보자  
+
+포장을 잘하는것도 면접에 핵심 개발잘하는것도 중요하지만 말을 잘하는것도 중요하다.
+
+https://www.youtube.com/watch?v=3H4umWD5bwI
+
+https://www.youtube.com/watch?v=H0iKHfnyU4g
+
+https://www.youtube.com/watch?v=WVvFRh1vGv8
+
+https://www.youtube.com/watch?v=DJCmvzhFVOI&t=4s
+
 # 신입사원에게 꼭 필요한 직무 개념
 CS지식 꾸준한 노력이나 열정 다양한 방향으로 문제를 접근하는 방식 
 
