@@ -47,7 +47,7 @@ https://angryfullstack.tistory.com/88
 내 연봉계약도 믿음으로 가자고 하겠지 ..
 ```
 
-# 평소에 이직을 위한 준비
+# 평소에 성장을  위한 준비
 https://angryfullstack.tistory.com/108
 
 # 면접에서 꼭 물어보는 면접 필수 질문 30개
