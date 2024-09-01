@@ -63,7 +63,11 @@ CS질문이 나오게됩니다. 물론 경력이 적을수록 아래 질문이 �
 - 소통능력을 키우기위해서 본인만에 방식이 있는가 ?
 - 최근 관심을 가지고 있는 IT분야가 있는가?
 ```
+https://github.com/lswteen/blog/blob/main/%EB%A9%B4%EC%A0%91%ED%8C%81/%EA%B2%BD%EB%A0%A5%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C%20%EC%A7%88%EB%AC%B8%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md
 
+https://github.com/lswteen/blog/blob/main/%EB%A9%B4%EC%A0%91%ED%8C%81/%EB%A9%B4%EC%A0%91CS.md
+
+https://github.com/lswteen/blog/blob/main/%EB%A9%B4%EC%A0%91%ED%8C%81/%EB%B0%B1%EC%95%A4%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B7%A8%EC%97%85%EB%BD%80%EA%B0%9C%EA%B8%B0%20%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84%20CS%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC%201%ED%83%84%20.md
 
 # (시니어 급의 경우) 본인의 면접관으로서의 경험과 면접 시 물어보는 질문 
 
